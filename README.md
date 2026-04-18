@@ -1,4 +1,4 @@
-#  — SQL Aggregations, JOINs & Fraud Investigation
+#   SQL Aggregations, JOINs & Fraud Investigation
 
 **PayFlow Payments Database + "Diwali Weekend" Fraud Case Study**
 
